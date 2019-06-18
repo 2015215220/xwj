@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">xwj</string>
+    <string name="login_main_name">基于Android的共享汽车计费App的设计与实现</string>
+    <string name="login_main_username">用户名：</string>
+    <string name="login_main_textusername">请输入用户名</string>
+    <string name="login_main_password">密码：</string>
+    <string name="login_main_qingpassword">请输入密码</string>
+    <string name="login_denglu">登陆</string>
+    <string name="login_zhuce">注册</string>
+    <string name="welcome_jinru">进入</string>
+</resources>
